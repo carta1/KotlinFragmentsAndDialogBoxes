@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">emridemo1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">EMRI demo</string>
+    <string name="nav_header_subtitle">jamartinezeb@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_repair">Repair</string>
+    <string name="title_activity_services">Services</string>
+    <string name="title_activity_electronics">Electronics</string>
+    <string name="title_activity_projects">Projects</string>
+</resources>
